@@ -1,3 +1,5 @@
 Module: User Registration
 Status: Initial implementation
 Purpose: Demonstrate signup feature development
+
+Registration fields: username, email, password
