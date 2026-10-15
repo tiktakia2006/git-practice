@@ -11,3 +11,8 @@ Purpose: To learn Git initialization, staging, commits, branches, merging, rebas
 2. Track changes and create commits.
 3. Work with branches, merge, and rebase.
 4. Create tags to mark stable versions.
+
+## Tools and Technologies
+- Git
+- Git Bash
+- Markdown
