@@ -16,3 +16,4 @@ Purpose: To learn Git initialization, staging, commits, branches, merging, rebas
 - Git
 - Git Bash
 - Markdown
+Remote synchronization test
