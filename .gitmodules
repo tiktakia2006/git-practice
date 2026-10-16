@@ -1,0 +1,3 @@
+[submodule "external/is"]
+	path = external/is
+	url = https://github.com/sindresorhus/is.git
